@@ -91,7 +91,7 @@
 ## 삽입 정렬(insertion sort) 알고리즘의 예제
 배열에 8, 5, 6, 2, 4가 저장되어 있다고 가정하고 자료를 오름차순으로 정렬해 보자.
 
-![](https://gmlwjd9405.github.io/images/algorithm-selection-sort/selection-sort.png)
+![](https://gmlwjd9405.github.io/images/algorithm-insertion-sort/insertion-sort.png)
 
 1회전:
 - 두 번째 자료인 5를 Key로 해서 그 이전의 자료들과 비교한다.
